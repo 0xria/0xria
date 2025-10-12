@@ -1,4 +1,4 @@
-- 👋 Hi,I'm Ria
+- 👋 Hi,I'm 0xria
 - 🌍 Future Cybersecurity engineer
 - 👩‍💻 Python Coder | Technical Writer
 - 🌱 Currently learning: Cybersecurity basics & Python projects
