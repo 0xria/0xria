@@ -1,9 +1,9 @@
-- 👋 Hi,I'm 0xria
-- 🌍 Future Cybersecurity engineer
-- 👩‍💻 Python Coder | Technical Writer
-- 🌱 Currently learning: Cybersecurity basics & Python projects
+- 👋 Hi,I'm Gloria Samuel
+- 🌍 Cybersecurity engineer in Progress...
+- 👩‍💻 Writes Python, Building Typescript and is a technical writer
+- 🌱 Currently learning: Cybersecurity basics & Building Python & TS projects
 - 💞️ I’m looking forward to collaborate on projects and other activities
-- 🤍 Fun fact: I love soft aesthetics, and personal growth!
+- 🤍 Fun fact: I love soft aesthetics and personal growth!
 
 
 
