@@ -7,7 +7,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=0xria&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=0xria&theme=transparent&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 <!---
 Gheecodes/Gheecodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
