@@ -6,11 +6,11 @@
 - 🤍 Fun fact: I love soft aesthetics, and personal growth!
 
 
-
+#Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=0xria&theme=transparent&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 # 0xria — Clean Hacker / Dark Neon
 
-<!-- ASCII logo with glow -->
+ASCII logo with glow 
 <pre style="color:#0affff; text-shadow:0 0 8px #0affff;">
    ___        __      _     
   / _ \____  / /___ _(_)___ 
@@ -21,9 +21,9 @@
 </pre>
 
 <!-- GitHub stats widgets -->
-<img src="https://github-readme-stats.vercel.app/api?username=0xria&show_icons=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=0xria&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xria&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xria&layout=compact&theme=tokyonight" />-->
 
 
 <!-- 🌒 Dark Neon GitHub Widget Section for 0xria 
@@ -146,7 +146,7 @@
         border-radius:10px;
         border:2px solid #00eaff;
         text-shadow:0 0 8px #00eaff;
-        box-shadow:0 0 12px #00eaff inset, 0 0 12px #00eaff;
+        box-shadow:0 0 12pxrgb(0, 17, 255) inset, 0 0 12px #00eaff;
         transition:0.3s;
         display:inline-block;
     ">
