@@ -1,5 +1,5 @@
 - 👋 Hi,I'm 0xria
-- 🌍 Future Cybersecurity engineer
+- 🌍 Cybersecurity engineer in progress...
 - 👩‍💻 Python Coder | Technical Writer
 - 🌱 Currently learning: Cybersecurity basics & Python projects
 - 💞️ I’m looking forward to collaborate on projects and other activities
