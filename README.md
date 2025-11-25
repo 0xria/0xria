@@ -21,7 +21,7 @@
 </pre>
 
 <!-- GitHub stats widgets -->
-<img src="https://github-readme-stats.vercel.app/api?username=0xria&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=0xria&show_icons=true&theme=transparent" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xria&layout=compact&theme=tokyonight" />
 
