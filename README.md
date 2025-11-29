@@ -1,7 +1,7 @@
 - 👋 Hi,I'm 0xria
 - 🌍 Cybersecurity engineer in progress...
-- 👩‍💻 Python Coder | Technical Writer
-- 🌱 Currently learning: Cybersecurity basics & Python projects
+- 👩‍💻 Python & Typescript Coder | Technical Writer
+- 🌱 Currently learning: Cybersecurity basics, Python and Typescript projects
 - 💞️ I’m looking forward to collaborate on projects and other activities
 - 🤍 Fun fact: I love soft aesthetics, and personal growth!
 
