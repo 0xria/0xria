@@ -81,8 +81,7 @@ ASCII logo with glow
       margin-top:25px;
   ">
 
-    <!-- GitHub Stats -->
-    <img 
+   <img 
       src="https://github-readme-stats.vercel.app/api?username=0xria&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true"
       style="
         border-radius:15px;
@@ -90,8 +89,6 @@ ASCII logo with glow
         max-width:420px;
       "
     />
-
-    <!-- Top Languages -->
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xria&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true"
       style="
@@ -101,7 +98,7 @@ ASCII logo with glow
       "
     />
   </div>
-
+   
   <!-- Trophy Section -->
   <div style="text-align:center; margin-top:30px;">
     <img 
