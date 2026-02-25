@@ -7,7 +7,7 @@
 - 🤍 Fun fact: I love soft aesthetics 🦋 and personal growth !
 
 
-<!--#Streak Stats
+<!--#Streak Stats-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=0xria&theme=transparent&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 # 0xria — Clean Hacker / Dark Neon
 
@@ -21,13 +21,13 @@ ASCII logo with glow
         { 0xria }
 </pre>
 
-<!-- GitHub stats widgets 
+<!-- GitHub stats widgets -->
 <img src="https://github-readme-stats.vercel.app/api?username=0xria&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xria&layout=compact&theme=tokyonight" />-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xria&layout=compact&theme=tokyonight" />
 
 
-<!-- 🌒 Dark Neon GitHub Widget Section for 0xria 
+<!-- 🌒 Dark Neon GitHub Widget Section for 0xria -->
 <div style="
     font-family: 'Courier New', monospace;
     white-space: pre;
@@ -69,10 +69,10 @@ ASCII logo with glow
       margin-top:0;
       text-shadow:0 0 8px #0099ff;
   ">
-    web3 • cybersecurity • finsec • digital forensics • python • tech writing
+    cloudsecurity • cybersecurity • finsec • digital forensics • python • tech writing
   </p>
 
-  <!-- Stats Cards Grid
+  <!-- Stats Cards Grid -->
   <div style="
       display:flex;
       flex-wrap:wrap;
@@ -81,7 +81,7 @@ ASCII logo with glow
       margin-top:25px;
   ">
 
-    <!-- GitHub Stats 
+    <!-- GitHub Stats -->
     <img 
       src="https://github-readme-stats.vercel.app/api?username=0xria&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true"
       style="
@@ -91,7 +91,7 @@ ASCII logo with glow
       "
     />
 
-    <!-- Top Languages 
+    <!-- Top Languages -->
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xria&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true"
       style="
@@ -102,7 +102,7 @@ ASCII logo with glow
     />
   </div>
 
-  <!-- Trophy Section 
+  <!-- Trophy Section -->
   <div style="text-align:center; margin-top:30px;">
     <img 
       src="https://github-profile-trophy.vercel.app/?username=0xria&theme=tokyonight&no-frame=true&row=1"
@@ -114,7 +114,7 @@ ASCII logo with glow
     />
   </div>
 
-  <!-- Contribution Graph
+  <!-- Contribution Graph -->
   <div style="text-align:center; margin-top:25px;">
     <img 
       src="https://ghchart.rshah.org/0xria"
@@ -127,7 +127,7 @@ ASCII logo with glow
     />
   </div>
 
-  <!-- Neon Divider
+  <!-- Neon Divider -->
   <hr style="
       margin-top:40px;
       border:0;
@@ -136,7 +136,7 @@ ASCII logo with glow
       box-shadow:0 0 10px #00eaff,0 0 15px #b900ff;
   " />
 
-  <!-- Follow Button
+  <!-- Follow Button -->
   <div style="text-align:center; margin-top:25px;">
     <a href="https://github.com/0xria" style="
         font-size:20px;
@@ -154,7 +154,7 @@ ASCII logo with glow
       ⭐ Follow @0xria
     </a>
   </div>
-</div>-->
+</div>
 
 
 
