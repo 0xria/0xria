@@ -114,7 +114,7 @@ ASCII logo with glow
     />
   </div>
 
-  <!-- Contribution Graph -->
+  <!-- Contribution Graph 
   <div style="text-align:center; margin-top:25px;">
     <img 
       src="https://ghchart.rshah.org/0xria"
@@ -125,7 +125,7 @@ ASCII logo with glow
         filter:drop-shadow(0 0 12px #ff00ff);
       "
     />
-  </div>
+  </div>-->
 
   <!-- Neon Divider -->
   <hr style="
