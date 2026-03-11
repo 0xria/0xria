@@ -10,13 +10,6 @@
 <!--#Streak Stats-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=0xria&theme=transparent&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-<pre style="color:#0affff; text-shadow:0 0 8px #0affff;">
-   ___        __      _     
-  / _ \____  / /___ _(_)___ 
- / ___/ __ \/ / __ `/ / __ \
-/_/   \____/_/\__,_/_/_/ /_/
-
-</pre>
 
 <!-- 🌒 Dark Neon GitHub Widget Section for 0xria -->
 <div style="
@@ -37,16 +30,7 @@
     box-shadow:0 0 25px #00e1ff44;
 ">
 
-  <h1 style="
-      text-align:center;
-      font-size:40px;
-      color:#00eaff;
-      text-shadow:0 0 10px #0a16ff, 0 0 25px #0a16ff;
-      margin-bottom:10px;
-  ">
-    ⚡ 0xria — Dark Neon Profile
-  </h1>
-
+ 
   <p style="
       text-align:center;
       color:#9befff;
