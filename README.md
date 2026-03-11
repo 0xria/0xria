@@ -68,7 +68,7 @@
     />
   </div>
    
-  <!-- Trophy Section -->
+  <!-- Trophy Section 
   <div style="text-align:center; margin-top:30px;">
     <img 
       src="https://github-profile-trophy.vercel.app/?username=0xria&theme=tokyonight&no-frame=true&row=1"
@@ -78,20 +78,8 @@
         filter:drop-shadow(0 0 12px #0a16ff);
       "
     />
-  </div>
-
-  <!-- Contribution Graph 
-  <div style="text-align:center; margin-top:25px;">
-    <img 
-      src="https://ghchart.rshah.org/0xria"
-      alt="GitHub Contribution Chart"
-      style="
-        width:100%;
-        max-width:900px;
-        filter:drop-shadow(0 0 12px #ff00ff);
-      "
-    />
   </div>-->
+
 
   <!-- Neon Divider -->
   <hr style="
