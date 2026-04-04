@@ -41,47 +41,7 @@
     cloudsecurity • cybersecurity • finsec • digital forensics • python • tech writing
   </p>
 
-  <!-- Stats Cards Grid -->
-  <div style="
-      display:flex;
-      flex-wrap:wrap;
-      justify-content:center;
-      gap:20px;
-      margin-top:25px;
-  ">
-
-   <img 
-      src="https://github-readme-stats.vercel.app/api?username=riashx&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true"
-      style="
-        border-radius:15px;
-        box-shadow:0 0 15px #0a16ff;
-        max-width:420px;
-      "
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=riashx&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true"
-      style="
-        border-radius:15px;
-        box-shadow:0 0 15px #b900ff;
-        max-width:420px;
-      "
-    />
-  </div>
-
-
-  <!-- Neon Divider -->
-  <hr style="
-      margin-top:40px;
-      border:0;
-      height:2px;
-      background:linear-gradient(90deg,#00eaff,#b900ff,#ff00e6);
-      box-shadow:0 0 10px #00eaff,0 0 15px #b900ff;
-  " />
-</div>
-
-
-
-<!---
+  <!---
 riashx/_ria.shx_ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
